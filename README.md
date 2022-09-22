@@ -23,4 +23,4 @@ Also I love vim 💖
 
 
 ## 🛠 Skills
-Javascript | React  |  Sass | HTML | CSS | lua | Vim 
+Javascript | React  |  Sass | HTML | CSS | lua | Vim | discord.js | Python
