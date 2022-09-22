@@ -3,7 +3,7 @@
 Hi, I'm Namish, a 15yr old lazy but passionate developer from India! 👋
 
 ## 🚀 Who?
-I'm a fairly good front end developer and a linux enthussiast. I use Artix Linux with dwm. (chad setup) \
+I'm a fairly good front end developer and a linux enthussiast. I use 🐧 Artix Linux with dwm. (chad setup) \
 Also I love vim 💖 
 
 ## 👦 Myself
