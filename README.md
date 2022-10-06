@@ -7,7 +7,7 @@ I'm a fairly good front end developer and a linux enthussiast. I use 🐧 Artix 
 Also I love vim 💖 
 
 ## 👦 Myself
-🧠 I'm currently learning Rust
+🧠 I'm currently learning Vue
 
 👯‍♀️ I'm looking to collaborate on web dev projects (i am lazy pls bear that in mind)
 
