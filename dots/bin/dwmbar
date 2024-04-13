@@ -5,9 +5,9 @@
    get_capacity="$(cat /sys/class/power_supply/BAT0/capacity)%%"
    stat=$(cat /sys/class/power_supply/BAT0/status)
    if [ "$stat" = "Charging" ]; then
-     printf "^B2^^C0^ BAT ^q^"
-   else 
      printf "^C2^^B0^ BAT ^q^"
+   else 
+     printf "^W^^B0^ BAT ^q^"
    fi
    printf "^W^^q^ $get_capacity"
  }
@@ -31,8 +31,8 @@
  wlan() {
    SSID=$(iwgetid -r)
  	case "$(cat /sys/class/net/wl*/operstate 2>/dev/null)" in
- 	up) printf "^Q^^a^ 󰤨  ^d^%s""^W^^q^ $SSID ^q^" ;;
-  down) printf "^B0^^A^ 󰤯  ^d^%s""^W^^q^ Disconnected ^q^" ;;
+ 	up) printf "^B0^^A^ 󰤨  ^d^%s""^W^^q^ $SSID ^q^" ;;
+  down) printf "^B0^^W^ 󰤯  ^d^%s""^W^^q^ Disconnected ^q^" ;;
  	esac
  }
 
@@ -43,6 +43,6 @@
 
  while true; do
   interval=$((interval + 1))
-  sleep 1 && xsetroot -name "$(music)$(battery) $(wlan)$(clock)"
+  sleep 1 && xsetroot -name "$(battery) $(wlan)$(clock)"
  done
 

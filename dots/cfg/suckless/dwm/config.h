@@ -24,11 +24,13 @@ static const int systraypinningfailfirst =
 static const int showsystray = 1; /* 0 means no systray */
 static const int showbar = 1;     /* 0 means no bar */
 static const int topbar = 1;      /* 0 means bottom bar */
-static const char buttonbar[] = " ";
+// static const char buttonbar[] = " ";
+static const char buttonbar[] = " ";
 static const int user_bh =
-    8; /* 2 is the default spacing around the bar's font */
-static const char *fonts[] = {"Fantasque Sans M Nerd Font:size=14"};
-static const char dmenufont[] = "Fantasque Sans M Nerd Font:size=14";
+    12; /* 2 is the default spacing around the bar's font */
+static const char *fonts[] = {"Fantasque Sans M Nerd Font:size=13",
+                              "Material Design Icons:size=13"};
+static const char dmenufont[] = "Fantasque Sans M Nerd Font:size=12";
 static char normbgcolor[] = "#222222";
 static char normbordercolor[] = "#444444";
 static char normfgcolor[] = "#bbbbbb";
@@ -60,16 +62,21 @@ static char *termcolor[] = {
 static char *colors[][3] = {
     /*               fg           bg           border   */
     [SchemeNorm] = {normfgcolor, normbgcolor, normbordercolor},
+    [SchemeTagNorm] = {normfgcolor, selbgcolor, selbordercolor},
     [SchemeSel] = {selfgcolor, selbgcolor, selbordercolor},
+    [SchemeTagSel] = {selfgcolor, selbgcolor, selbordercolor},
     [SchemeHid] = {selfgcolor, normbgcolor, selbordercolor},
-    [SchemeButton] = {selfgcolor, normbgcolor, selbordercolor},
+    [SchemeButton] = {selfgcolor, selbgcolor, selbordercolor},
 };
 static const int horizpadbar = 5; /* horizontal padding for statusbar */
-static const int vertpadbar = 5;  /* vertical padding for statusbar */
+static const int vertpadbar = 15; /* vertical padding for statusbar */
 
 /* tagging */
-static const char *tags[] = {"cmd", "www", "dev", "chat", "med"};
-static const char *alttags[] = {"[cmd]", "[www]", "[dev]", "[chat]", "[med]"};
+// static const char *tags[] = {"cmd", "www", "dev", "chat", "med"};
+// static const char *alttags[] = {"[cmd]", "[www]", "[dev]", "[chat]",
+// "[med]"};
+static const char *tags[] = {" ", " ", " ", " "};
+static const char *alttags[] = {" ", " ", " ", " "};
 
 typedef struct {
   const char *name;
