@@ -1,7 +1,3 @@
-i can code
-
-you can also call me nam
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/chadcat7/chadcat7/main/.github/rice.png" alt="showcase">
 <br>
