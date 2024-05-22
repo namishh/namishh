@@ -1,5 +1,5 @@
 <samp>
-These are some of the goals I would like to acheive within the next few years with using rust as the primary language - <br>
+These are some of the goals I would like to acheive within the next few years with using rust/golang as the primary language - <br>
 
 \- \[x] fetch script <br>
 \- \[x] quiz discord bot <br>
