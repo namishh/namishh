@@ -9,7 +9,5 @@ These are some of the goals I would like to acheive within the next few years wi
 \- \[ ] authentication api for a pokemon battle simulator <br>
 \- \[ ] terminal bento <br>
 \- \[ ] wayland compositor <br>
-\- \[ ] music visualizer <br>
 \- \[ ] chat room from scratch <br>
-\- \[ ] operating system <br>
 </samp>
