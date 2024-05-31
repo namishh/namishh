@@ -1,3 +1,2 @@
 <samp>
-<a href="https://nam.is-a.dev">www</a>  •  <a href="https://nam.is-a.dev/blog">blog</a>   •  <a href="https://discord.com/users/715825910611443722">discord</a> • <a href="https://github.com/chadcat7/chadcat7/blob/main/GOALS.md">goals</a>
-</samp>
+<a href="https://nam.is-a.dev">www</a>  •  <a href="https://nam.is-a.dev/blog">blog</a>   •  <a href="https://discord.com/users/715825910611443722">discord</a> 
