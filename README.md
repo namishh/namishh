@@ -1,4 +1,4 @@
-![gif straight up ripped from pinterest](https://i.pinimg.com/originals/84/9c/9b/849c9bd9d2a677345122f5b7b7664b8f.gif)
+![gif straight up ripped from pinterest](https://i.pinimg.com/originals/f3/e0/a5/f3e0a5eb29a20721639973c480793e8a.gif)
 
 <samp>
 doing a lil bit of everything <br>
