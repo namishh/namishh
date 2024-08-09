@@ -3,5 +3,5 @@
 </div>
 
 <samp>
-<a href="https://nam.is-a.dev">www</a>  •  <a href="https://nam.is-a.dev/blog">blog</a>   •  <a href="https://discord.com/users/715825910611443722">discord</a>  •  <a href="https://github.com/namishh/crystal">dotfiles</a> 
+<a href="https://namishh.me">www</a>  •  <a href="https://namishh.me/blog">blog</a>   •  <a href="https://discord.com/users/715825910611443722">discord</a>  •  <a href="https://github.com/namishh/crystal">dotfiles</a> 
 </samp>
