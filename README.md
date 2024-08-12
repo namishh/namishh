@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/d2bf5f4b-9299-42e1-ad16-4e5cbb5fcd30" alt="banner">
+<img src="https://i.imgur.com/qKW0pa7.png" alt="banner">
 </div>
 
 <samp>
