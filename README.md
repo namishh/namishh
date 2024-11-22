@@ -1,5 +1,5 @@
 <samp>
-currently working on - <a href="https://git.new/floww">floww</a>
+currently working on - <a href="https://git.new/floww">aster</a>
 <br>
 i also save my programming notes <a href="https://notes.namishh.me">here</a>
 <br>
