@@ -1,5 +1,5 @@
 <samp>
-currently working on - <a href="https://git.new/floww">aster</a>
+founder and unoffical ceo - <a href="https://git.new/floral">floraorg</a>
 <br>
 i also save my programming notes <a href="https://notes.namishh.me">here</a>
 <br>
