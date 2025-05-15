@@ -1,4 +1,8 @@
 <samp>
-unoffical ceo - <a href="https://flora.tf">flora.tf</a>
+<a href="https://namishh.me">www</a>  •  <a href="https://x.com/namishh__">x</a> • <a href="https://namishh.me/resume">resume</a>  • <a href="https://flora.tf">flora</a>  
+</samp>
+
 <br>
-<a href="https://namishh.me">www</a>  •  <a href="https://x.com/namishh__">x</a> • <a href="https://namishh.me/resume">resume</a>  
+<br>
+
+<img src="https://namishh.me/static/images/github_banner.png">
